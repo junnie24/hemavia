@@ -1,1 +1,0 @@
-HEMAVIA website revamp\n\nBuka folder ini di VS Code dan jalankan index.html dengan Live Server. Pastikan folder css, js, dan images tetap berada di dalam folder proyek. Google Fonts dan Lucide icons memerlukan koneksi internet. Tinjau dan lengkapi referensi kesehatan sebelum website dipublikasikan.\n
